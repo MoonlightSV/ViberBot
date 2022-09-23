@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABefLiuTGXka/nkrvMDlHcwAAAAACAAAAAAAQZgAAAAEAACAAAABG/urVlAyThTnfmFnHDdDhYPp1nsd1CZHuaEIxhjC2PgAAAAAOgAAAAAIAACAAAAAoSXZlNI6Biqn9CwPCXHcYI/GZ1EFjZ4Vjha98HRlDlyAAAABM833WSXK2m+FafIePnCbkhWGVfYirsfAZPqVbfLwKgUAAAACdzGm9cV5Bli9XPG5GoNLkWwZ9HEcHJj/xCa6gefRIYi0FCpruuIey6zXvSsDn8EimYuM3pmBfQzd7pc4z+g0v</EncryptedPassword>
+    <_PublishTargetUrl>ftp://argoviberbot.somee.com/www.argoviberbot.somee.com</_PublishTargetUrl>
+    <History>True|2022-09-21T09:45:56.0404620Z;False|2022-09-21T18:43:20.1629488+09:00;True|2022-09-21T17:29:32.1481779+09:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/06/2022 14:31:13</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/06/2022 14:31:13</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>06/18/2017 22:57:10</publishTime>
+    </File>
+    <File Include="Viber.Bot.dll">
+      <publishTime>02/27/2021 04:04:30</publishTime>
+    </File>
+    <File Include="ViberBot.deps.json">
+      <publishTime>09/21/2022 18:45:25</publishTime>
+    </File>
+    <File Include="ViberBot.dll">
+      <publishTime>09/21/2022 18:45:25</publishTime>
+    </File>
+    <File Include="ViberBot.exe">
+      <publishTime>09/21/2022 18:45:25</publishTime>
+    </File>
+    <File Include="ViberBot.pdb">
+      <publishTime>09/21/2022 18:45:25</publishTime>
+    </File>
+    <File Include="ViberBot.runtimeconfig.json">
+      <publishTime>09/21/2022 17:28:15</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>09/21/2022 18:45:25</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

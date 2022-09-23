@@ -1,0 +1,9 @@
+C:\Users\stalk\source\repos\ViberBot\ViberBot\obj\Release\net6.0\PubTmp\Out\ViberBot.exe
+C:\Users\stalk\source\repos\ViberBot\ViberBot\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\stalk\source\repos\ViberBot\ViberBot\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\stalk\source\repos\ViberBot\ViberBot\obj\Release\net6.0\PubTmp\Out\ViberBot.dll
+C:\Users\stalk\source\repos\ViberBot\ViberBot\obj\Release\net6.0\PubTmp\Out\ViberBot.deps.json
+C:\Users\stalk\source\repos\ViberBot\ViberBot\obj\Release\net6.0\PubTmp\Out\ViberBot.runtimeconfig.json
+C:\Users\stalk\source\repos\ViberBot\ViberBot\obj\Release\net6.0\PubTmp\Out\ViberBot.pdb
+C:\Users\stalk\source\repos\ViberBot\ViberBot\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\stalk\source\repos\ViberBot\ViberBot\obj\Release\net6.0\PubTmp\Out\Viber.Bot.dll
